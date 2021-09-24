@@ -1,0 +1,26 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: black;
+}
+
+.Cronometro { 
+    width: 50%;
+    height: 50%;
+    margin-top: 20%;
+    padding: 10%;
+    box-sizing: border-box;
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: 25%;
+    border-radius: 3%;
+}
+.Iniciar{
+    background-color: cornflowerblue;
+}
+.Pausar{
+    background-color: cyan;
+}
+.Parar{
+    background-color: darkkhaki;
+}
